@@ -1,3 +1,4 @@
+update...
 if [ $1 -gt $2 -a $1 -gt $3 ]
 then
 echo "greater number is :$1"
